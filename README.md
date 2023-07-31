@@ -1,6 +1,7 @@
 # Customer Churn Prediction
 
 This project aims to predict customer churn using machine learning. The project includes the following steps:
+data used: /kaggle/input/telco-customer-churn/WA_Fn-UseC_-Telco-Customer-Churn.csv
 
 ## Exploratory Data Analysis
 
